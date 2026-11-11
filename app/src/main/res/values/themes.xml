@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.SignFlow" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/fundo</item>
+    </style>
+</resources>

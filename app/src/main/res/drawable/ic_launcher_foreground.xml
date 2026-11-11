@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- folha de documento -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M38,30h24l10,10v38a2,2 0,0 1,-2 2h-32a2,2 0,0 1,-2 -2v-46a2,2 0,0 1,2 -2z" />
+    <path
+        android:fillColor="#FFD9CCFA"
+        android:pathData="M62,30v10h10z" />
+    <!-- linhas -->
+    <path android:fillColor="#FFB9A6F2" android:pathData="M42,46h22v3h-22z" />
+    <path android:fillColor="#FFB9A6F2" android:pathData="M42,53h16v3h-16z" />
+    <!-- check de assinatura -->
+    <path
+        android:fillColor="#FF22D3EE"
+        android:pathData="M45,66l5,-5 5,5 13,-13 5,5 -18,18z" />
+</vector>
